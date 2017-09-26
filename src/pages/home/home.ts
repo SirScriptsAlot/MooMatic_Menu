@@ -11,4 +11,12 @@ export class HomePage {
 
   }
 
+  menu = [
+    'Burger',
+    'Chips',
+    'Pie',
+    'Mash',
+    'Peas',
+    'Nachos'
+  ];
 }
